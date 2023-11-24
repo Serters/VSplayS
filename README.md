@@ -1,1 +1,1 @@
-# VSplayS
+# Visual Studio extension - playS 
